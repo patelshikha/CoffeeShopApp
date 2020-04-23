@@ -1,0 +1,2 @@
+C:\Users\shikh\source\repos\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.csprojAssemblyReference.cache
+C:\Users\shikh\source\repos\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.csproj.CoreCompileInputs.cache
